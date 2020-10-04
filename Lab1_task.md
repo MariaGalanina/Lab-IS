@@ -1,4 +1,4 @@
-# Tasks
+# Lab 1 Task
 
 ## Lab 1: Prolog introduction
 
